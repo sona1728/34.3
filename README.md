@@ -1,3 +1,10 @@
+Ques: Explain in brief with their uses.
+● Oozie Action and Decision Nodes
+● Oozie Workflow Nodes
+● Fork and Join
+● Oozie Web Console
+
+Ans:
 # Oozie Action and Decision Nodes
 Solution:
 
